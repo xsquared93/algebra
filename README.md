@@ -10,7 +10,7 @@ I wrote this program because I wanted to apply the idea in
 apply one of the ideas in `SICP`, a classic computer science textbook; namely, I applied the idea of data abstraction. Finally,
 I also applied, or at least tried to apply, the design recipe from the book `HtDP` by Felleisen and colleagues.
 
-# Things left to do
+## Things left to do
 - [ ] provide function level documentation;
 - [ ] rewrite how data is represented - get rid of the `print` procedures;
 - [ ] provide unit tests.
